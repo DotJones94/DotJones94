@@ -1,15 +1,20 @@
 - 👋 Hi, I’m @DotJones94
-- 
+
 - 👀 I’m interested in ...
     - Front-end development 
-    - Animations 
+    - PHP development
+    - Animations and Transitions
     
 - 🌱 I’m currently learning ...
     - Advanced CSS
-    - React?
+    - React
+    - Data Visualisations
     
-- 💞️ I’m looking to collaborate on ...
-    - Not sure yet, something new? Something worth expanding my skills on?
+ - ✨ Some skills: 
+    - Javascript (Vue.js, jQuery)
+    - PHP (Laravel) 
+    - Web Development (HTML, SCSS)
+    - Product Development (Figma, AB Testing, Client feedback) 
     
 
 <!---
